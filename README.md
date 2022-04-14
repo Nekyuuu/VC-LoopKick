@@ -8,11 +8,13 @@ A simple add who allow you to loopkick users from a voice channel.
 
 <h1 align="center">Screenshot</h1>
 
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/928048927415078952/964059651656269824/screenshot.png">
+</p>
 <br>
 <br>
 <br>
-<h1 align="center">Compilation</h1>
+<h1>Compilation</h1>
 
 To compile a dotnet project, using dotnet.
 
@@ -25,7 +27,7 @@ To compile the Golang DLL.
 ```bash
   go build -o vc.dll -buildmode=c-shared dll.go
 ```
-<h1 align="center">Installation</h1>
+<h1>Installation</h1>
 
 Just download the release
 
@@ -33,13 +35,13 @@ Just download the release
 https://github.com/Nekyuuu/VC-LoopKick/releases
 ```
 
-<h1 align="center">TO DO</h1>
+<h1>TO DO</h1>
 
 - Fix "Toggle RGB BAR"
 
 
 <h1 align="center">🚀 About Me</h1>
-http://nekyuu.tk
+-> http://nekyuu.tk
 
 
 
