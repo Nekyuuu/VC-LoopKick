@@ -1,51 +1,46 @@
-# VocieChat LoopKick
+<h1 align="center">VoiceChat LoopKick</h1>
+
 
 A simple add who allow you to loopkick users from a voice channel.
-<br/>
-<br/>
-<br/>
-## Compilation
+<br>
+<br>
+<br>
+
+<h1 align="center">Screenshot</h1>
+
+<img align="center", src="https://cdn.discordapp.com/attachments/928048927415078952/964059651656269824/screenshot.png">
+<br>
+<br>
+<br>
+<h1 align="center">Compilation</h1>
 
 To compile a dotnet project, using dotnet.
 
 ```bash
   dotnet publish -r win-x64 --self-contained=false /p:PublishSingleFile=true
-```<br/>
-
+```
+<br>
 To compile the Golang DLL.
 
 ```bash
   go build -o vc.dll -buildmode=c-shared dll.go
 ```
-## Installation
+<h1 align="center">Installation</h1>
 
-Install my-project with npm
+Just download the release
 
-```bash
-  npm install my-project
-  cd my-project
 ```
-    
-## Screenshots
+https://github.com/Nekyuuu/VC-LoopKick/releases
+```
 
-![App Screenshot](https://cdn.discordapp.com/attachments/928048927415078952/964059651656269824/screenshot.png)
+<h1 align="center">TO DO</h1>
+
+- Fix "Toggle RGB BAR"
 
 
-## 🚀 About Me
+<h1 align="center">🚀</h1>
 http://nekyuu.tk
 
 
-## TO DO
 
-- Fix "Toggle RGB BAR"
-
-Made by Nekyuu 
-## TO DO
-
-- Fix "Toggle RGB BAR"
-
-<br/>
-<br/>
-<br/>
-
-Made by Nekyuu 🌠
+<p align="center">Made by Nekyuu 🌠</p>
