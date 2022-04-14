@@ -8,7 +8,7 @@ A simple add who allow you to loopkick users from a voice channel.
 
 <h1 align="center">Screenshot</h1>
 
-<img align="center", src="https://cdn.discordapp.com/attachments/928048927415078952/964059651656269824/screenshot.png">
+<img src="https://cdn.discordapp.com/attachments/928048927415078952/964059651656269824/screenshot.png">
 <br>
 <br>
 <br>
@@ -38,7 +38,7 @@ https://github.com/Nekyuuu/VC-LoopKick/releases
 - Fix "Toggle RGB BAR"
 
 
-<h1 align="center">🚀</h1>
+<h1 align="center">🚀 About Me</h1>
 http://nekyuu.tk
 
 
