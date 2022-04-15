@@ -24,13 +24,13 @@ Languages:
 To compile a dotnet project, using dotnet.
 
 ```bash
-  dotnet publish -r win-x64 --self-contained=false /p:PublishSingleFile=true
+dotnet publish -r win-x64 --self-contained=false /p:PublishSingleFile=true
 ```
 <br>
 To compile the Golang DLL.
 
 ```bash
-  go build -o vc.dll -buildmode=c-shared dll.go
+go build -o vc.dll -buildmode=c-shared dll.go
 ```
 <br>
 <br>
